@@ -12,7 +12,7 @@ Bienvenue dans le dépôt de mon projet **Dashboard Power BI avec Prédiction de
 
 ## 📊 Aperçu
 
-![Screenshot du Dashboard]()  <!-- Remplacez ce lien par une capture d'écran réelle du dashboard -->
+![Screenshot du Dashboard](capture.png)  <!-- Remplacez ce lien par une capture d'écran réelle du dashboard -->
 
 ## 🛠️ Prérequis
 
